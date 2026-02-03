@@ -35,7 +35,7 @@ anyhow = "1.0.94"
 arrow = "53.2.0"  # Keep in line with datafusion
 async-stream = "0.3.6"
 base64 = "0.22.1"
-bytes = { version = "1.9.0", features = ["serde"] }
+bytes = { version = "1.11.1", features = ["serde"] }
 chrono = { version = "0.4.39", features = ["serde"] }
 derive_builder = "0.20.2"
 futures = "0.3.31"

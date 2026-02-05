@@ -33,7 +33,7 @@ tracing = { workspace = true }
 ustr = { workspace = true }
 databento = { version = "0.16.0" }
 fallible-streaming-iterator = { version = "0.1.9" }
-time = { version = "0.3.37" }
+time = { version = "0.3.47" }
 
 [dev-dependencies]
 nautilus-test-kit = { path = "../../test_kit" }
